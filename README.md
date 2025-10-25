@@ -14,7 +14,7 @@ Neste processo eu aprendi:
 * ✅ Aplicar Red, Green, Refactor
 * ✅ Boas Práticas no desenvolvimento de Software
 * ✅ Refatoração de código legado
-* ✅ Código Limp
+* ✅ Código Limpo
 
 ## REGRAS DO DESAFIO
 - [ ] Realizar um fork do repositório do desafio
